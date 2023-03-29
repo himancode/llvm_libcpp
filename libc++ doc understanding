@@ -1,7 +1,7 @@
 the official website for libc++ is https://libcxx.llvm.org/.
 libc++ is the newly implemented standard c++ library.
 
-libstd++ is associatesd g++ whereas libc++  is associated with clang.
+libstd++ is associated g++ whereas libc++ is associated with clang.
 
 
 
